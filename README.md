@@ -34,6 +34,8 @@ To run the movie recommender system, use the following command:
 python main.py
 ```
 ## Screenshot
+![image](https://github.com/AhmedSaif2/Movies-Recommendation-System/assets/99100926/273e6789-e6a0-4e6f-af0f-a8d0eb8a92b1)
+
 Enter the user ID, select a movie, select the recommendation technique (category, user preferences, or both), and indicate how many similar movies you wish to appear.
 
 ![image](https://github.com/AhmedSaif2/Movies-Recommendation-System/assets/99100926/36daac03-2293-4810-a45b-f04cb74aba4e)
